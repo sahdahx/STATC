@@ -1,3 +1,2 @@
-# repo-test
-repo untuk mencoba git remote
-**gak kepake, kalau mau masukin apa2 pake ini aja**
+# Praktikum Pemrograman STAT C
+Untuk menyimpan file kodingan selama perkuliahan semester 1 pada mata kuliah **Praktikum Pemrograman** kelas **STAT C**, Universitas Gadjah Mada.
